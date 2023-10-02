@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Connect-chat Application (Real-Time chat App)](https://github.com/annoydey/Chat-Application)
 
-- 🌱 I’m currently learning **NextJs, Machine Learning and Image Processing**
+- 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on [WT-Tool (Smart City Simulation)](https://github.com/UB-IoT-Lab/wireless-topology-generator)
+- 👯 I’m looking to collaborate on [WT-Tool (Smart City Simulation)](https://github.com/UB-IoT-Lab/wireless-topology-generator) and [Union Lab Project (Wireless Network Democratization)](https://github.com/ub-wings-lab/unilab)
 
 - 👨‍💻 All of my projects are available at [https://annoydey.github.io/portfolio/](https://annoydey.github.io/portfolio/)
 
