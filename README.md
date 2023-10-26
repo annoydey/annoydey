@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Decentralized In-Game Asset Marketplace]
+- 🔭 I’m currently working on - Decentralized In-Game Asset Marketplace
 - 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on [WT-Tool (Smart City Simulation)](https://github.com/UB-IoT-Lab/wireless-topology-generator) and [Union Lab Project (Wireless Network Democratization)](https://github.com/ub-wings-lab/unilab)
