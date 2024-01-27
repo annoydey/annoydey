@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on - SUNY OpenIoT Lab as a Full Stack Developer
   
-- 🐧 Open Source Contribution - [Cerebro App]([https://www.cerebroapp.com/](https://github.com/cerebroapp/cerebroapp.com))
+- 🐧 Open Source Contribution - [Cerebro App](https://github.com/cerebroapp/cerebroapp.com)  
 
 - 🌱 I’m currently learning **Blockchain (Dapp Application)**
 
