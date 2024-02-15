@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on - SUNY OpenIoT Lab as a Full Stack Developer
+- 🔭 I’m currently working on - UB Wings Lab ( SUNY OpenIoT Lab Project ) as a Full Stack Developer
   
 - 🐧 Open Source Contribution - [Cerebro App](https://github.com/cerebroapp/cerebroapp.com)  
 
