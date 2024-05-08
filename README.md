@@ -5,19 +5,17 @@
 
 
 
-- 🔭 I’m currently working on - UB Wings Lab ( SUNY OpenIoT Lab Project ) as a Full Stack Developer
-  
-- 🐧 Open Source Contribution - [Cerebro App](https://github.com/cerebroapp/cerebroapp.com)  
+- 🔭 I’m currently working at - The Research Foundation for SUNY on [SUNY OpenIoT Lab](http://54.227.156.63:4000/login) and [UnionLabs Platform](http://unionlabs.s3-website-us-east-1.amazonaws.com/app/dashboard) Projects as a Full Stack Developer
 
-- 🌱 I’m currently learning **Blockchain (Dapp Application)**
-
-- 👯 I’m looking to collaborate on [WT-Tool (Smart City Simulation)](https://github.com/UB-IoT-Lab/wireless-topology-generator)
+- 👯 I’m also collaborating on [WT-Tool (Smart City Simulation research project)](https://github.com/UB-IoT-Lab/wireless-topology-generator)
 
 - 👨‍💻 All of my projects are available at [https://annoydey.github.io/portfolio/](https://annoydey.github.io/portfolio/)
 
+- 🐧 Open Source Contribution - [Cerebro App](https://github.com/cerebroapp/cerebroapp.com)  
+
 - 📫 How to reach me **annoydey@gmail.com || annoydey@buffalo.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gbSepsT3qKsRvlwUrSpuNPfZRN-urVD7/view](https://drive.google.com/file/d/1gbSepsT3qKsRvlwUrSpuNPfZRN-urVD7/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gbSepsT3qKsRvlwUrSpuNPfZRN-urVD7/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
