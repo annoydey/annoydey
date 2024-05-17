@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working at - The Research Foundation for SUNY on [SUNY OpenIoT Lab](http://54.227.156.63:4000/login) and [UnionLabs Platform](http://unionlabs.s3-website-us-east-1.amazonaws.com/app/dashboard) Projects as a Full Stack Developer
+- 🔭 I’m currently working at - The Research Foundation for SUNY on [UnionLabs](http://54.227.156.63:4000/login) and [UnionLabs Platform](http://unionlabs.s3-website-us-east-1.amazonaws.com/app/dashboard) Projects as a Full Stack Developer
 
 - 👯 I’m also collaborating on [WT-Tool (Smart City Simulation research project)](https://github.com/UB-IoT-Lab/wireless-topology-generator)
 
