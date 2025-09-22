@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Annoy Dey</h1>
-<h3 align="center">A Full Stack Web developer</h3>
+<h3 align="center">Cloud Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annoydey&label=Profile%20views&color=0e75b6&style=flat" alt="annoydey" /> </p>
 
 
 
-- 🔭 I’m currently working at - The Research Foundation for SUNY on [UnionLabs](http://54.227.156.63:4000/login) and [UnionLabs Platform](http://unionlabs.s3-website-us-east-1.amazonaws.com/app/dashboard) Projects as a Full Stack Developer
+- 🔭 I’m currently working at - University of Minnesota Twin Cities on [UnionLabs](http://54.227.156.63:4000/login) and [UnionLabs Platform](http://unionlabs.s3-website-us-east-1.amazonaws.com/app/dashboard) Projects as a Full Stack Developer
 
 - 👯 I’m also collaborating on [WT-Tool (Smart City Simulation research project)](https://github.com/UB-IoT-Lab/wireless-topology-generator)
 
