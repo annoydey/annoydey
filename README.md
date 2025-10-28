@@ -5,15 +5,13 @@
 
 
 
-- 🔭 I’m currently working at - University of Minnesota Twin Cities on [UnionLabs Platform](http://unionlabs.s3-website-us-east-1.amazonaws.com/app/dashboard) Projects as a Full Stack Developer
-
-- 👯 I’m also collaborating on [WT-Tool (Smart City Simulation research project)](https://github.com/UB-IoT-Lab/wireless-topology-generator)
+- 🔭 I’m currently working at - University of Minnesota Twin Cities on [UnionLabs Platform](http://unionlabs.s3-website-us-east-1.amazonaws.com/app/dashboard) Projects as a Research Assistant
 
 - 👨‍💻 All of my projects are available at [https://annoydey.github.io/portfolio/](https://annoydey.github.io/portfolio/)
 
 - 🐧 Open Source Contribution - [Cerebro App](https://github.com/cerebroapp/cerebroapp.com)  
 
-- 📫 How to reach me **annoydey@gmail.com || annoydey@buffalo.edu**
+- 📫 How to reach me **annoydey@gmail.com || dey00063@umn.edu**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gbSepsT3qKsRvlwUrSpuNPfZRN-urVD7/view)
 
